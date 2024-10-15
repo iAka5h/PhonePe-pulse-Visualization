@@ -1,4 +1,4 @@
-Project Title: PhonePe Pulse Data Visualization and Exploration
+# Project Title: PhonePe Pulse Data Visualization and Exploration
 
 <!-- Optional: Insert a banner image or a thumbnail relevant to your project. Replace the placeholder link with an image URL. -->
 Table of Contents
