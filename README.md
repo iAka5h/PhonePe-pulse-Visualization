@@ -39,9 +39,9 @@ pip install cryptography
 pip install Pillow
 ```
 ### USAGE
-Step 1: Load transaction data from the PhonePe Pulse dataset into the MySQL database.
-Step 2: Launch the Streamlit app and explore transaction trends using interactive visualizations.
-Step 3: Filter and analyze data to gain insights into transaction volumes, frequency, and patterns across different states and years.
+1. Load transaction data from the PhonePe Pulse dataset into the MySQL database.
+2. Launch the Streamlit app and explore transaction trends using interactive visualizations.
+3. Filter and analyze data to gain insights into transaction volumes, frequency, and patterns across different states and years.
 ---
 ### CONTACT
 If you have any questions or suggestions, feel free to reach out.
