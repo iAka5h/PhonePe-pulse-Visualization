@@ -1,85 +1,50 @@
 # PhonePe Pulse Data Visualization and Exploration
+![png (3)](https://github.com/user-attachments/assets/c3ee82dc-088a-4455-8001-ced318b2450e)
 
-<!-- Optional: Insert a banner image or a thumbnail relevant to your project. Replace the placeholder link with an image URL. -->
-
+---
 ### PROJECT OVERVIEW 
 PhonePe Pulse Data Visualization and Exploration is a data analysis project using Streamlit to create interactive visualizations of PhonePe transaction data. The project aims to provide users with insights into the trends and patterns in PhonePe transactions over time. Data is collected and stored in a MySQL database for querying and exploration.
 
-## FEATURES
-  ### • Import and store PhonePe transaction data in a MySQL database.
-  ### • Explore and visualize data using Streamlit.
-  ### • Display transaction trends, amounts, and volumes over time.
-  ### • Filter by different criteria like state, date, and transaction type.
-  ### • Analyze transaction patterns across various time frames and categories.
+### FEATURES
+• Import and store PhonePe transaction data in a MySQL database.
+• Explore and visualize data using Streamlit.
+• Display transaction trends, amounts, and volumes over time.
+• Filter by different criteria like state, date, and transaction type.
+• Analyze transaction patterns across various time frames and categories.
 
-## TECH STACK
-  ### • Programming Language: Python
-  ### • Libraries: Streamlit, Pandas, SQLAlchemy, Matplotlib, Seaborn
-  ### • Database: MySQL
-  ### • Tools: Jupyter Notebook, Visual Studio Code
+### TECH STACK
+• Github Cloning
+• Programming Language: Python
+• Libraries: Streamlit, Pandas, Plotly, PIL
+• Database: MySQL
+• Tools: Jupyter Notebook, Visual Studio Code
 
-## INSTALLATION
-Clone the repository:
+### DASHBOARD
+![Screenshot (200)](https://github.com/user-attachments/assets/ef96f015-60b6-40c3-89c2-e632ed7616e8)
 
-bash
-Copy code
-git clone https://github.com/YourUsername/YourRepository.git
-cd YourRepository
-Create and activate a virtual environment:
+---
 
-bash
-Copy code
-python3 -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
-Install the dependencies:
+![Screenshot (201)](https://github.com/user-attachments/assets/299fda33-be2d-4e6b-8625-5a0a7f4b327f)
 
-bash
-Copy code
-pip install -r requirements.txt
-Set up your MySQL database and configure your environment variables:
 
-Database Credentials: Store in .env file.
-Start the Streamlit app:
-
-bash
-Copy code
-streamlit run app.py
-Usage
+### INSTALLATION
+required packages ↴
+```
+pip install pymysql
+pip install streamlit
+pip install pandas
+pip install numpy
+pip install nbformat
+pip install cryptography
+pip install Pillow
+```
+### USAGE
 Step 1: Load transaction data from the PhonePe Pulse dataset into the MySQL database.
 Step 2: Launch the Streamlit app and explore transaction trends using interactive visualizations.
-Step 3: Filter and analyze data to gain insights into transaction volumes, frequency, and patterns across different states and periods.
-Project Structure
-lua
-Copy code
-|-- README.md
-|-- app.py
-|-- requirements.txt
-|-- data/
-|   |-- phonepe_data.csv
-|-- scripts/
-|   |-- data_loading.py
-|   |-- data_visualization.py
-|-- assets/
-|   |-- screenshots/
-|-- .env.example
-Screenshots
-
-Add descriptive captions for each screenshot here.
-
-Contributing
-Contributions are welcome! Please follow these steps:
-
-Fork the repository.
-Create a feature branch.
-Commit your changes.
-Open a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
+Step 3: Filter and analyze data to gain insights into transaction volumes, frequency, and patterns across different states and years.
+---
+### CONTACT
 If you have any questions or suggestions, feel free to reach out.
-
-Name: Akash
-Email: your.email@example.com
-Connect on LinkedIn
+Email: martakash99@gmail.com
+LinkedIn: [@iAka5h](https://www.linkedin.com/in/iaka5h/)
 Let's connect!
