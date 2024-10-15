@@ -1,33 +1,24 @@
-# Project Title: PhonePe Pulse Data Visualization and Exploration
+# PhonePe Pulse Data Visualization and Exploration
 
 <!-- Optional: Insert a banner image or a thumbnail relevant to your project. Replace the placeholder link with an image URL. -->
-Table of Contents
-Project Overview
-Features
-Tech Stack
-Installation
-Usage
-Project Structure
-Screenshots
-Contributing
-License
-Contact
-Connect on LinkedIn
-Project Overview
+
+## PROJECT OVERVIEW Project Overview
 PhonePe Pulse Data Visualization and Exploration is a data analysis project using Streamlit to create interactive visualizations of PhonePe transaction data. The project aims to provide users with insights into the trends and patterns in PhonePe transactions over time. Data is collected and stored in a MySQL database for querying and exploration.
 
-Features
-Import and store PhonePe transaction data in a MySQL database.
-Explore and visualize data using Streamlit.
-Display transaction trends, amounts, and volumes over time.
-Filter by different criteria like state, date, and transaction type.
-Analyze transaction patterns across various time frames and categories.
-Tech Stack
-Programming Language: Python
-Libraries: Streamlit, Pandas, SQLAlchemy, Matplotlib, Seaborn
-Database: MySQL
-Tools: Jupyter Notebook, Visual Studio Code
-Installation
+## FEATURES
+  ### Import and store PhonePe transaction data in a MySQL database.
+  ### Explore and visualize data using Streamlit.
+  ### Display transaction trends, amounts, and volumes over time.
+  ### Filter by different criteria like state, date, and transaction type.
+  ### Analyze transaction patterns across various time frames and categories.
+
+## TECH STACK
+  ### Programming Language: Python
+  ### Libraries: Streamlit, Pandas, SQLAlchemy, Matplotlib, Seaborn
+  ### Database: MySQL
+  ### Tools: Jupyter Notebook, Visual Studio Code
+
+## INSTALLATION
 Clone the repository:
 
 bash
