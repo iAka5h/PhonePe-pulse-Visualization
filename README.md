@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, feel free to reach out:
 
-- **Your Name**: [Akash P](mailto:martakash99@gmail.com)
+- **Name**: [Akash P](mailto:martakash99@gmail.com)
 - **LinkedIn**: [iAka5h](https://linkedin.com/iAka5h)
 - **GitHub**: [iAka5h](https://github.com/iAka5h)
 
