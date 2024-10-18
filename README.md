@@ -1,6 +1,5 @@
 # PhonePe Pulse Data Visualization and Exploration
-
-![Project Banner](https://via.placeholder.com/1200x300?text=PhonePe+Pulse+Data+Visualization)
+![png](https://github.com/user-attachments/assets/5dd8c1c0-2ff2-4a83-8646-bf0392b45eda)
 
 ## Overview
 
